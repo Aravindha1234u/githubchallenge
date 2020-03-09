@@ -1,1 +1,1 @@
-flag{Pr0t3cT_y0uR_G1t}
+skcetctf{Th1s_n0t_th3_RigHt_Fl4g}
