@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 skcetctf{Th1s_n0t_th3_RigHt_Fl4g}
+=======
+skcetctf{Pr0t3cT_y0uR_G1t}
+>>>>>>> a176eeac7dda224e5517dfee23a083d373782c7c
